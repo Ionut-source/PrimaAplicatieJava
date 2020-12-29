@@ -1,8 +1,8 @@
 public class Continue {
     public static void main(String[] args) {
 
-        //un numar par este un numar % 2 = 0
-        //un numar impar este un numar % 2 = 1
+
+        //un numar impar este un numar % 2 = 1  ; un numar par este un numar % 2 = 0
 
         for (int counter = 0; counter < 42; counter++) {
             if (counter % 2 == 0) {

@@ -2,7 +2,7 @@ public class For {
     public static void main(String[] args) {
 
         /*
-        Cum se formeaza For?
+        Cum se formeaza For ??
         for(statement de initioalizare;conditia de oprire;statement care se intampla dupa fiecare initiere) {
         //blocul de cod
     }
