@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CotrolStructures.iml" filepath="$PROJECT_DIR$/CotrolStructures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrimaAplicatieJava.iml" filepath="$PROJECT_DIR$/PrimaAplicatieJava.iml" />
     </modules>
   </component>
 </project>
