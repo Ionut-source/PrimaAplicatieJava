@@ -1,6 +1,7 @@
 public class SwitchStatement {
     public static void main(String[] args) {
-        int dayOfWeek = 7;
+
+        int dayOfWeek = 3;
         /*
         0 - Luni
         1 - Marti

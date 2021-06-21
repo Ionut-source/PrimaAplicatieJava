@@ -3,7 +3,7 @@ public class For {
 
         /*
         Cum se formeaza For?
-        for(statement de initioalizare;conditia de oprire;statement care se intampla dupa fiecare initiere) {
+        for(statement de initializare;conditia de oprire;statement care se intampla dupa fiecare initiere) {
         //blocul de cod
     }
          */
